@@ -16,5 +16,5 @@ class App extends Component {
 }
 
 const root = ReactDOM.createRoot(document.getElementById("root"))
-root.render(<App name={"Grace"}/>)
+root.render(<App name={"world"} />)
 //root.render(React.createElement(App, {name: "Grace"}))
