@@ -29,7 +29,7 @@ module.exports = {
 					options: {
 						presets: [
 							['@babel/preset-env', { targets: "defaults" }],
-							['@babel/preset-react', { targets: "defaults" }],
+							'@babel/preset-react'
 						]
 					}
 				}
